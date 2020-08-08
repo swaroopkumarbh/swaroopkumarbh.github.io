@@ -7,16 +7,6 @@
 .headingdiv{
     background-color: #38386a;
 }
-.parentcontainer,.tablecontainer{
+.parentcontainer{
    margin:2% 7%;
-}
-.tablecontainer{
-    margin:0%;
- }
-table,th,tr,td{
-    border: 1px solid black;
-    border-collapse: collapse;
-}
-th,td{
-    text-align: center;
 }
